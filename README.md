@@ -14,8 +14,8 @@
 
 - 🔭 I’m currently working on TAS tasks and Challenges
 - 🌱 I’m currently learning more in the area of automation testing
-- 👯 I’m looking to collaborate on interesting projects with
-- 🤔 I’m looking for help with API testing
+- 👯 I’m looking to collaborate on interesting project
+- 🤔 I’m looking for help with penetration testing
 - 💬 Ask me about Software Quality Assurance Engineering
 - 📫 How to reach me: sundaychimezie96@gmail.com
 - 😄 Interest: Cyber Security
