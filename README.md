@@ -12,8 +12,8 @@
 
 
 
-- 🔭 I’m currently working on TAS tasks and Challenges
-- 🌱 I’m currently learning more in the area of automation testing
+- 🔭 I’m currently learning more in the area of Log Monitoring and Observability
+- 🌱 I’m excited about automation testing
 - 👯 I’m looking to collaborate on interesting project
 - 🤔 I’m looking for help with penetration testing
 - 💬 Ask me about Software Quality Assurance Engineering
