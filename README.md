@@ -15,9 +15,9 @@
 - 🔭 I’m currently learning more in the area of Log Monitoring and Observability
 - 🌱 I’m excited about automation testing
 - 👯 I’m looking to collaborate on interesting project
-- 🤔 I’m looking for help with penetration testing
+- 🤔 I’m looking to help with penetration testing
 - 💬 Ask me about Software Quality Assurance Engineering
-- 📫 How to reach me: sundaychimezie96@gmail.com
+- 📫 How to reach me: thejephthahsunday@gmail.com
 - 😄 Interest: Cyber Security
 - ⚡ Fun fact: I enjoy finding hinden bugs 😅
 
